@@ -1,0 +1,15 @@
+.header , .footer {
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 80px;
+  border-radius: 10px;
+  background-color: #303030;
+}
+
+.header {
+  margin-bottom: 80px;
+}
+
+.footer {
+  margin-top: 80px;
+}
